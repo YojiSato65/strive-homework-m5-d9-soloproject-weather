@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+
+.header-container {
+  height: 30vh;
+  background-image: url('https://wallpapercave.com/dwp2x/wp2894289.jpg');
+}
+
+/* .icon,
+.detail {
+  height: 200px;
+  width: 200px;
+} */
+
+.result-container {
+  /* border: 1px solid grey; */
+  width: 600px;
+  background-color: rgb(246, 246, 246);
+  border-radius: 10px;
+  /* justify-content: space-evenly; */
+}
